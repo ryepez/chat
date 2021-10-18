@@ -1,0 +1,6 @@
+framework module Pods_chatDare_chatDareUITests {
+  umbrella header "Pods-chatDare-chatDareUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

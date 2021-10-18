@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>813445580543-hk03tg6ffpu5865lsqsdrq5f5mlrgsd5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.813445580543-hk03tg6ffpu5865lsqsdrq5f5mlrgsd5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-beNOi_rD08GBfgoQZHYwTqsbxvJzBho</string>
+	<key>GCM_SENDER_ID</key>
+	<string>813445580543</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.google.firebase.udacityFriendlyChat</string>
+	<key>PROJECT_ID</key>
+	<string>friendlychat-8ab7c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>friendlychat-8ab7c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:813445580543:ios:a8159e224216168dfbeeca</string>
+	<key>DATABASE_URL</key>
+	<string>https://friendlychat-8ab7c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
